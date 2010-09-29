@@ -5,7 +5,7 @@
 src/*/bin
 src/*/obj
 *.pidb
-src/Tests/test-results/
+src/*/test-results/
 *resharper*
 _ReSharper*
 
