@@ -1,8 +1,11 @@
 *.suo
 *.cache
 *csproj.user
+*.userprefs
 src/*/bin
 src/*/obj
+*.pidb
+src/Tests/test-results/
 *resharper*
 _ReSharper*
 
